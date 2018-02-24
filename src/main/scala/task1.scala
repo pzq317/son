@@ -51,59 +51,6 @@ object task1{
     //orderedFreqItem.foreach(println)
     println(orderedFreqItem.size)
 
-
-
-
-
-
-
-
-
-    //=======================================================================================
-    //first stage
-    /*val cand = data.mapPartitionsWithIndex((i,part)=>{
-
-      val data = part.toList
-      val reviewer_basket =  data.filter(x => x != header).map(x => x.split(",")).map(x => (x(0), (x(1), x(2)))).groupBy(_._1).mapValues(x=>x.map(x=>x._2._1).distinct).toArray
-      var fsample = reviewer_basket.flatMap(x => x._2.map(x=>(Set(x),1))).groupBy(_._1).mapValues(_.length).filter(_._2 >= support).toArray
-
-      val single = fsample.map(x=>x._1)
-      var candidate = construct(single).map(_.toList)
-      while(!candidate.isEmpty){
-        val set = reviewer_basket.map(x => for {p <- candidate if p.forall(x._2.contains)} yield (p.aggregate(Set(p(0)))((x, y) => x ++ Set(y), (x, y) => x ++ y), 1)).flatMap(x => x).groupBy(_._1).mapValues(_.length).filter(_._2>=support).toArray//.reduceByKey(_ + _).filter(_._2 >= 8).map(_._1)
-        fsample = fsample ++ set
-        val pairs = set.map(_._1)
-        candidate = construct(pairs).map(_.toList)
-      }
-      println(reviewer_basket.foreach(println),i)
-      fsample.iterator
-    }).reduceByKey(_+_).map(_._1.toList).collect
-
-
-    data.mapPartitionsWithIndex((i,part)=>{
-      val data = part.toList
-      val rb =  data.filter(x => x != header).map(x => x.split(",")).map(x => (x(0), (x(1), x(2)))).groupBy(_._1).mapValues(x=>x.map(x=>x._2._1).distinct).toArray
-      val p = rb.map(x => for {p <- cand if p.forall(x._2.contains)} yield (p.aggregate(Set(p(0)))((x, y) => x ++ Set(y), (x, y) => x ++ y), 1,x._1)).flatMap(x => x).groupBy(_._1).mapValues(_.length).toArray
-
-      p.iterator
-    }).reduceByKey(_+_).filter(x=>x._2>=8).collect*/
-//===========================================================================================
-      /*val reviewer_basket = data.filter(x => x != header).map(x => x.split(",")).map(x => (x(0), (x(1), x(2)))).groupByKey().map(x => (x._1, x._2.map(y => y._1).toList.distinct))
-
-      //frequent singleton
-      val singleton = reviewer_basket.flatMap(x => x._2.map(x => (x, 1))).reduceByKey(_ + _).filter(_._2 >= support).map(x => Set(x._1))
-      val single = singleton.collect()
-      single.foreach(println)
-
-      //create canadidate pairs
-      var candidate = construct(single).map(_.toList)
-
-    while(!candidate.isEmpty){
-      val set = reviewer_basket.map(x => for {p <- candidate if p.forall(x._2.contains)} yield (p.aggregate(Set(p(0)))((x, y) => x ++ Set(y), (x, y) => x ++ y), 1)).flatMap(x => x).reduceByKey(_ + _).filter(_._2 >= 8).map(_._1)
-      val pairs = set.collect()
-      pairs.foreach(println)
-      candidate = construct(pairs).map(_.toList)
-    }*/
   }
 
 
