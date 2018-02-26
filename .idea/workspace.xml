@@ -2,65 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a36500c6-67e2-4672-9f5b-f8b80e0655ec" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/output.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$155629705270a3e2eeb6$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$155629705270a3e2eeb6.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$155629705270a3e2eeb6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/task1.scala" afterPath="$PROJECT_DIR$/src/main/scala/task1.scala" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$20.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22$$anonfun$apply$10$$anonfun$apply$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22$$anonfun$apply$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22$$anonfun$apply$12$$anonfun$apply$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22$$anonfun$apply$12$$anonfun$apply$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22$$anonfun$apply$12$$anonfun$apply$15.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22$$anonfun$apply$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$22.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$23.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$24.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21$$anonfun$25.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$21.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$2.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$26.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$27.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$28$$anonfun$apply$16.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$28$$anonfun$apply$17.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$28.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$29.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$3.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$30.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$31.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$6$$anonfun$apply$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14$$anonfun$apply$3$$anonfun$apply$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14$$anonfun$apply$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14$$anonfun$apply$5$$anonfun$apply$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14$$anonfun$apply$5$$anonfun$apply$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14$$anonfun$apply$5$$anonfun$apply$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14$$anonfun$apply$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$15.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$16.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$17.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$18.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$19.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$8$$anonfun$apply$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7$$anonfun$apply$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$construct$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$construct$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$construct$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$construct$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$main$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$main$3.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/task1$.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$construct$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$construct$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -90,8 +48,8 @@
       <file leaf-file-name="task1.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/task1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+            <state relative-caret-position="450">
+              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -113,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small2.case1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case2-1500.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,8 +100,8 @@
       <file leaf-file-name="Jeffrey_Jow_SON_Beauty.case2-40.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case2-40.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -188,8 +146,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1091" />
-    <option name="height" value="800" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -296,7 +254,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true">
+    <configuration name="task1" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="task1" />
       <option name="VM_PARAMETERS" value="" />
@@ -337,6 +295,12 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
+      <module name="" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE -Xms4g -Xmx4g" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -370,11 +334,6 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.task1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="lastUpdateTimestamp" value="1518138612857" />
@@ -434,7 +393,9 @@
       <workItem from="1519433583627" duration="8976000" />
       <workItem from="1519517358977" duration="5267000" />
       <workItem from="1519524782650" duration="1939000" />
-      <workItem from="1519593755842" duration="5236000" />
+      <workItem from="1519593755842" duration="33639000" />
+      <workItem from="1519639191454" duration="4504000" />
+      <workItem from="1519670918837" duration="4489000" />
     </task>
     <task id="LOCAL-00001" summary="remove old version">
       <created>1519448129313</created>
@@ -443,11 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519448129313</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="speed up by remove for loop">
+      <created>1519600964126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519600964126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76019000" />
+    <option name="totallyTimeSpent" value="113415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -466,15 +434,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16368638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16231087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36038515" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47180194" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10500808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10500808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -512,10 +480,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43191198" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36038515" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10177706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10500808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -531,13 +499,122 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove old version" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove old version" />
+    <MESSAGE value="speed up by remove for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="speed up by remove for loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/task1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small1.case1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small2.case1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case1-1200.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case2-1500.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case2-40.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case1-50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/task1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="102" lean-forward="false" selection-start-line="58" selection-start-column="102" selection-end-line="58" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small1.case1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small2.case1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case1-1200.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case2-1500.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case2-40.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/task1.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -645,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,21 +794,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/small1case2.txt" />
     <entry file="file://$PROJECT_DIR$/smallcase1.txt" />
     <entry file="file://$PROJECT_DIR$/_SON_Small1.case1.txt" />
-    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case1-50.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case1-1200.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -743,26 +808,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small2.case1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Books.case2-1500.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case2-40.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Small2.case1.txt">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -777,11 +842,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/task1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        <state relative-caret-position="450">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeffrey_Jow_SON_Beauty.case1-50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
