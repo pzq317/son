@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a36500c6-67e2-4672-9f5b-f8b80e0655ec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$155629705270a3e2eeb6$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$155629705270a3e2eeb6.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$155629705270a3e2eeb6.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/task1.scala" afterPath="$PROJECT_DIR$/src/main/scala/task1.scala" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$1.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$2.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/task1$$anonfun$26.class" afterPath="" />
@@ -395,7 +391,7 @@
       <workItem from="1519524782650" duration="1939000" />
       <workItem from="1519593755842" duration="33639000" />
       <workItem from="1519639191454" duration="4504000" />
-      <workItem from="1519670918837" duration="4489000" />
+      <workItem from="1519670918837" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="remove old version">
       <created>1519448129313</created>
@@ -411,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519600964126</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="remove hash add new combine&#10;works for 1 small2 3&#10;but not 2 small2 5">
+      <created>1519678350633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1519678350634</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113415000" />
+    <option name="totallyTimeSpent" value="113474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -500,7 +503,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove old version" />
     <MESSAGE value="speed up by remove for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="speed up by remove for loop" />
+    <MESSAGE value="remove hash add new combine&#10;works for 1 small2 3&#10;but not 2 small2 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove hash add new combine&#10;works for 1 small2 3&#10;but not 2 small2 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
